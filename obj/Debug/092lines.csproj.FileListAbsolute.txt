@@ -1,0 +1,10 @@
+D:\Download\grcis-master\092lines\bin\Debug\092lines.exe.config
+D:\Download\grcis-master\092lines\bin\Debug\092lines.exe
+D:\Download\grcis-master\092lines\bin\Debug\092lines.pdb
+D:\Download\grcis-master\092lines\obj\Debug\092lines.csproj.AssemblyReference.cache
+D:\Download\grcis-master\092lines\obj\Debug\_092lines.Form1.resources
+D:\Download\grcis-master\092lines\obj\Debug\_092lines.Properties.Resources.resources
+D:\Download\grcis-master\092lines\obj\Debug\092lines.csproj.GenerateResource.cache
+D:\Download\grcis-master\092lines\obj\Debug\092lines.csproj.CoreCompileInputs.cache
+D:\Download\grcis-master\092lines\obj\Debug\092lines.exe
+D:\Download\grcis-master\092lines\obj\Debug\092lines.pdb
